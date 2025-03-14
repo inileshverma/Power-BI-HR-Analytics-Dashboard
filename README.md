@@ -18,7 +18,7 @@ This project aims to analyze employee attrition within an organization using Pow
 - Attrition by Job Role – Identifying which job roles have the highest turnover.
 - Attrition by Salary Slab – Analyzing how salary levels impact attrition.
   
-- Dashboard Interaction <a href="https://github.com/inileshverma/Power-BI-HR-Analytics-Dashboard/blob/main/HR%20Analysis%20Dashboard.png">View Dashboard</a>
+- <a href="https://github.com/inileshverma/Power-BI-HR-Analytics-Dashboard/blob/main/HR%20Analysis%20Dashboard.png">View Dashboard</a>
 
 ## Process
 - Data Collection – Gathered employee records, attrition data, salary distribution, job roles, and tenure details.
