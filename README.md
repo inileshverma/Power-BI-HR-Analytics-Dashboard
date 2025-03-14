@@ -33,11 +33,11 @@ This project aims to analyze employee attrition within an organization using Pow
 
 
 ## Project Insight
-1.) Attrition by Age Group: Employees aged 26-35 have the highest turnover, indicating career progression or dissatisfaction in early employment years.
-2.) Attrition by Experience: Most employees leave within their first few years, highlighting a possible issue with onboarding or job satisfaction.
-3.) Job Role & Attrition: Sales and technical roles experience the highest attrition, suggesting a need for better career growth plans.
-4.) Salary vs. Attrition: The majority of employees leaving earn below $5K, indicating compensation might be a key factor in turnover.
-5.) Departmental Impact: Some departments have significantly higher attrition rates, emphasizing the need for targeted retention strategies.
+1. Attrition by Age Group: Employees aged 26-35 have the highest turnover, indicating career progression or dissatisfaction in early employment years.
+2. Attrition by Experience: Most employees leave within their first few years, highlighting a possible issue with onboarding or job satisfaction.
+3. Job Role & Attrition: Sales and technical roles experience the highest attrition, suggesting a need for better career growth plans.
+4. Salary vs. Attrition: The majority of employees leaving earn below $5K, indicating compensation might be a key factor in turnover.
+5. Departmental Impact: Some departments have significantly higher attrition rates, emphasizing the need for targeted retention strategies.
 
 ## Final Conclusion:
 This HR Analytics Dashboard provides actionable insights into employee attrition trends. It helps HR teams identify key factors influencing turnover and develop data-driven strategies to enhance employee engagement, satisfaction, and retention.
