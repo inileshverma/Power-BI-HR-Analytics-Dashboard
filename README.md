@@ -3,7 +3,7 @@
 This project aims to analyze employee attrition within an organization using Power BI. The objective is to identify key trends in workforce turnover, attrition by department, job role, education, salary slabs, and years of experience. By understanding these insights, HR teams can develop strategies to improve employee retention and satisfaction.
 
 ## Dataset used
-- <a href="https://github.com/inileshverma/Power-BI-HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.pbix">Dataset</a>
+- <a href="https://github.com/inileshverma/Power-BI-HR-Analytics-Dashboard/blob/main/HR_Analytics.csv">Dataset</a>
 
 ## Key Performance Indicators (KPIs)
 - Total Employees – The total number of employees in the organization.
